@@ -1,14 +1,25 @@
 import { motion } from 'framer-motion';
 import {
-  FaReact, FaNode, FaPython, FaPhp, FaJava, FaAws, FaDocker, FaGitAlt
+  FaReact, FaNode, FaPython, FaPhp, FaJava, FaAws, FaDocker, FaGitAlt, FaHtml5, FaCss3, FaAngular,
+  FaThinkPeaks,
+  FaBrain,
+  FaGithub, FaGitlab,
+  FaBitbucket
 } from 'react-icons/fa';
 import {
   SiTypescript, SiJavascript, SiPostgresql, SiMysql, SiMongodb,
-  SiGraphql, SiTailwindcss, SiGo
+  SiGraphql, SiTailwindcss, SiGo,
+  SiFlask, SiFastapi,
+  SiMaterialformkdocs,
+  SiGooglecloud, 
 } from 'react-icons/si';
 import portfolioData from '../data/portfolio.json';
 import { useLanguage } from '../context/LanguageContext';
 import './Skills.css';
+import { RiFirebaseLine } from 'react-icons/ri';
+import { AiOutlineOpenAI, AiTwotoneApi } from 'react-icons/ai';
+import { PiVectorThreeDuotone } from 'react-icons/pi';
+import { VscAzure } from 'react-icons/vsc';
 
 const Skills = () => {
   const { skills } = portfolioData;
@@ -31,6 +42,26 @@ const Skills = () => {
     'AWS S3': <FaAws />,
     'Docker': <FaDocker />,
     'Git': <FaGitAlt />,
+    'HTML5': <FaHtml5 />,
+    'CSS3': <FaCss3 />,
+    'Angular': <FaAngular />,
+    'MaterialUI': <SiMaterialformkdocs />,
+    'Flask': <SiFlask />,
+    'FastAPI': <SiFastapi />,
+    'Firebase': <RiFirebaseLine />,
+    'RESTful APIs': <AiTwotoneApi />,
+    'AWS Bedrock': <FaAws />,
+    'OpenAI': <AiOutlineOpenAI />,
+    'AI Embedding': <PiVectorThreeDuotone />,
+    'Azure AI Foundry': <VscAzure />,
+    'RAG': <FaThinkPeaks />,
+    'Agno AI': <FaBrain />,
+    'GCP': <SiGooglecloud />,
+    'Cloud Run': <SiGooglecloud />,
+    'App Engine': <SiGooglecloud />,
+    'GitHub': <FaGithub />,
+    'GitLab': <FaGitlab />,
+    'Bitbucket': <FaBitbucket />,
   };
 
   const containerVariants = {
