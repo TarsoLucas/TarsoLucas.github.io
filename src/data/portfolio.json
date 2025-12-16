@@ -1,0 +1,157 @@
+{
+  "personal": {
+    "name": "Tarso Oliveira",
+    "title": "Software Engineer",
+    "subtitle": "Full Stack Developer & AI Integration Specialist",
+    "email": "tarsolucas@gmail.com",
+    "github": "https://github.com/tarsolucas",
+    "linkedin": "https://www.linkedin.com/in/tarsolucas/",
+    "website": "https://tarsolucas.github.io",
+    "bio": "Seasoned Software Engineer with extensive experience in web development, backend architecture, and AI integrations. I combine my passion for technology with my proven ability to deliver scalable and innovative solutions."
+  },
+  "skills": {
+    "frontend": ["React", "TypeScript", "JavaScript", "HTML5", "CSS3", "Angular", "TailwindCSS", "MaterialUI"],
+    "backend": ["Node.js", "Go", "PHP", "Python", "Java", "Flask", "FastAPI"],
+    "apis": ["RESTful APIs", "GraphQL"],
+    "databases": ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
+    "ai": ["AWS Bedrock", "OpenAI", "AI Embedding", "Azure AI Foundry", "RAG", "Agno AI"],
+    "cloud": ["AWS S3", "GCP", "Cloud Run", "App Engine"],
+    "tools": ["Git", "GitHub", "GitLab", "Bitbucket", "Docker", "Terraform"],
+    "automation": ["RPA", "Selenium", "Playwright", "Puppeteer"],
+    "methodologies": ["Scrum", "Agile", "TDD"]
+  },
+  "experience": [
+    {
+      "company": "Agilize Contabilidade Online",
+      "position": "Software Engineer - Senior Mid-Level",
+      "period": "Dec 2024 - Present",
+      "location": "Salvador, BA (Remote)",
+      "promoted": true,
+      "description": "Promoted within 3 months for exceptional performance in AI development",
+      "achievements": [
+        "Lead AI developer for CRM platform, creating intelligent agents with RAG and tool integration",
+        "Architected AI embedding solutions using AWS Bedrock, OpenAI, and Azure AI Foundry",
+        "Developed scalable APIs with Node.js, Go, and PHP for accounting automation",
+        "Built data engineering pipelines for processing large-scale financial data"
+      ],
+      "tech": ["Node.js", "Go", "PHP", "React", "PostgreSQL", "MySQL", "AWS Bedrock", "OpenAI", "Azure AI", "GraphQL"]
+    },
+    {
+      "company": "Agilize Contabilidade Online",
+      "position": "Software Engineer - Mid-Level",
+      "period": "Sep 2024 - Dec 2024",
+      "location": "Salvador, BA (Remote)",
+      "description": "Initial position before promotion",
+      "achievements": [
+        "Developed backend features for accounting automation platform",
+        "Created chatbots and automation solutions for customer relations",
+        "Integrated AI systems with existing CRM infrastructure"
+      ],
+      "tech": ["Node.js", "React", "PostgreSQL", "MySQL"]
+    },
+    {
+      "company": "Eureka Software",
+      "position": "React/Angular/Java/Node Developer",
+      "period": "May 2024 - Sep 2024",
+      "location": "Maringá, PR (Remote)",
+      "achievements": [
+        "Collaborated with banking and insurance clients to deliver robust systems",
+        "Developed full-stack solutions using modern frameworks"
+      ],
+      "tech": ["React", "Angular", "Java", "Node.js"]
+    },
+    {
+      "company": "Hospital Sírio-Libanês",
+      "position": "Node Developer",
+      "period": "May 2024 - Jul 2024",
+      "location": "São Paulo, SP (Remote)",
+      "achievements": [
+        "Developed backend solution for internal CRM app facilitating patient-doctor communication",
+        "Built scalable and efficient backend systems using hexagonal architecture",
+        "Created intelligent chatbots to enhance patient support and streamline operations"
+      ],
+      "tech": ["Node.js", "React", "TypeScript", "AWS S3", "JavaScript"]
+    },
+    {
+      "company": "Ford Motor Company",
+      "position": "Software Developer & Data Science Researcher",
+      "period": "Nov 2022 - May 2024",
+      "location": "Salvador, BA (Hybrid)",
+      "achievements": [
+        "Lead Developer in an international-grade application",
+        "Built a multi-purpose PWA that automates hundreds of hours of engineering work",
+        "Optimized performance for PWA systems, saving thousands of hours with RPA automation",
+        "Performed statistical analysis over large amounts of data",
+        "Contributed to backend development, setting CORS and API routing"
+      ],
+      "tech": ["React", "TypeScript", "Node.js", "Python", "Flask", "MaterialUI", "GCP", "Pandas"]
+    },
+    {
+      "company": "TriDev",
+      "position": "Full Stack Developer",
+      "period": "Nov 2020 - May 2024",
+      "location": "Remote (Freelance)",
+      "achievements": [
+        "Developed full-stack applications for various clients",
+        "Implemented modern web solutions using React, TypeScript, and Node.js",
+        "Worked with PostgreSQL, Firebase, and GraphQL"
+      ],
+      "tech": ["React", "TypeScript", "Node.js", "PostgreSQL", "Firebase", "GraphQL", "TailwindCSS", "MUI"]
+    },
+    {
+      "company": "GIUSOFT Tecnologia",
+      "position": "Software Developer",
+      "period": "May 2022 - Jul 2022",
+      "location": "Salvador, BA",
+      "achievements": [
+        "Enhanced performance and reliability of warehouse management system (WMS)",
+        "Refactored legacy code and automated database processes",
+        "Implemented features based on client demand and fixed critical bugs"
+      ],
+      "tech": ["PHP", "JavaScript", "MySQL", "jQuery"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "DataSUS Statistical Analysis",
+      "description": "Statistical analysis tool for Brazilian public health data",
+      "tech": ["TypeScript", "Data Analysis"],
+      "github": "https://github.com/tarsolucas/DataSUS_Statistical_Analysis",
+      "stars": 3,
+      "image": "/images/dssa.png"
+    },
+    {
+      "name": "Whastsapp Hermes",
+      "description": "A glorified whatsapp automation with a slick UI and smart messaging functions",
+      "tech": ["JavaScript", "React", "TailwindCSS", "MongoDB", "Heroku"],
+      "github": "https://github.com/TarsoLucas/WhatsappHermes",
+      "stars": 5,
+      "image": "/images/wahermes.png"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Systems Analysis and Development",
+      "institution": "UNIFACS",
+      "period": "2022 - 2025",
+      "status": "Completed"
+    },
+    {
+      "degree": "Full Stack Development",
+      "institution": "SENAI CIMATEC - Ford",
+      "period": "2022",
+      "status": "Completed"
+    },
+    {
+      "degree": "Bachelor of Science in Physics",
+      "institution": "Federal University of Bahia (UFBA)",
+      "period": "2016 - 2021",
+      "status": "Completed"
+    }
+  ],
+  "languages": [
+    { "language": "Portuguese", "level": "Native" },
+    { "language": "English", "level": "Fluent" },
+    { "language": "Spanish", "level": "Intermediate" }
+  ]
+}

@@ -1,0 +1,17 @@
+.app {
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+  background: var(--color-bg-primary);
+}
+
+.app-content {
+  padding-top: 80px;
+  min-height: 100vh;
+}
+
+@media (max-width: 768px) {
+  .app-content {
+    padding-top: 140px;
+  }
+}

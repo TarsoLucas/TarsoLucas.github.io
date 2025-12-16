@@ -1,0 +1,93 @@
+.language-selector {
+  position: fixed;
+  top: 2rem;
+  right: 2rem;
+  z-index: 1000;
+  display: flex;
+  gap: 0.5rem;
+  background: rgba(15, 20, 32, 0.8);
+  padding: 0.5rem;
+  border-radius: 50px;
+  border: 1px solid var(--color-border);
+  backdrop-filter: blur(10px);
+  box-shadow: var(--shadow-glow);
+}
+
+.lang-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.9rem;
+  background: rgba(0, 153, 255, 0.05);
+  border: 2px solid transparent;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.lang-btn:hover {
+  background: rgba(0, 153, 255, 0.15);
+  border-color: var(--color-blue-primary);
+}
+
+.lang-btn.active {
+  background: rgba(0, 153, 255, 0.2);
+  border-color: var(--color-blue-bright);
+  box-shadow: var(--shadow-glow);
+}
+
+.flag-icon {
+  width: 1.5rem;
+  height: 1.1rem;
+  opacity: 0.35;
+  filter: brightness(0.5) saturate(0.6) contrast(0.9);
+  transition: all 0.3s ease;
+}
+
+.lang-btn:hover .flag-icon {
+  opacity: 0.65;
+  filter: brightness(0.7) saturate(0.8) contrast(1);
+}
+
+.lang-btn.active .flag-icon {
+  opacity: 1;
+  filter: brightness(1) saturate(1) contrast(1);
+}
+
+.lang-text {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--color-text-secondary);
+  transition: color 0.3s ease;
+  letter-spacing: 0.5px;
+}
+
+.lang-btn:hover .lang-text {
+  color: var(--color-blue-bright);
+}
+
+.lang-btn.active .lang-text {
+  color: var(--color-blue-bright);
+}
+
+@media (max-width: 768px) {
+  .language-selector {
+    top: 1rem;
+    right: 1rem;
+    padding: 0.3rem;
+  }
+
+  .lang-btn {
+    padding: 0.4rem 0.7rem;
+  }
+
+  .flag-icon {
+    width: 1.2rem;
+    height: 0.9rem;
+  }
+
+  .lang-text {
+    font-size: 0.7rem;
+  }
+}
+

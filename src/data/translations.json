@@ -1,0 +1,213 @@
+{
+  "en": {
+    "hero": {
+      "greeting": "Hi, I'm",
+      "subtitle": "Full Stack Developer & AI Integration Specialist",
+      "bio": "Seasoned Software Engineer with extensive experience in web development, backend architecture, and AI integrations. I combine my passion for technology with my proven ability to deliver scalable and innovative solutions.",
+      "getInTouch": "Get In Touch",
+      "viewWork": "Get To Know Me!"
+    },
+    "skills": {
+      "title": "Technical Skills",
+      "subtitle": "Technologies and tools I work with",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "apis": "APIs",
+      "databases": "Databases",
+      "ai": "AI & ML",
+      "cloud": "Cloud & DevOps"
+    },
+    "experience": {
+      "title": "Work Experience",
+      "subtitle": "My professional journey and achievements",
+      "promoted": "Promoted",
+      "agilize1": {
+        "position": "Software Engineer - Senior Mid-Level",
+        "period": "Dec 2024 - Present",
+        "location": "Salvador, BA (Remote)",
+        "description": "Promoted within 3 months for exceptional performance in AI development",
+        "achievements": [
+          "Lead AI developer for CRM platform, creating intelligent agents with RAG and tool integration",
+          "Architected AI embedding solutions using AWS Bedrock, OpenAI, and Azure AI Foundry",
+          "Developed scalable APIs with Node.js, Go, and PHP for accounting automation",
+          "Built data engineering pipelines for processing large-scale financial data"
+        ]
+      },
+      "agilize2": {
+        "position": "Software Engineer - Mid-Level",
+        "period": "Sep 2024 - Dec 2024",
+        "location": "Salvador, BA (Remote)",
+        "description": "Initial position before promotion",
+        "achievements": [
+          "Developed backend features for accounting automation platform",
+          "Created chatbots and automation solutions for customer relations",
+          "Integrated AI systems with existing CRM infrastructure"
+        ]
+      },
+      "eureka": {
+        "position": "Software Engineer",
+        "period": "May 2024 - Sep 2024",
+        "location": "Salvador, BA (Remote)",
+        "achievements": [
+          "Developed backend systems with Node.js and PostgreSQL",
+          "Built RESTful APIs for web and mobile applications",
+          "Implemented automated testing and CI/CD pipelines"
+        ]
+      },
+      "sirioLibanes": {
+        "position": "Software Developer",
+        "period": "May 2024 - Jul 2024",
+        "location": "Salvador, BA (Remote)",
+        "achievements": [
+          "Developed healthcare management systems",
+          "Integrated third-party APIs for patient data management",
+          "Implemented security best practices for sensitive data"
+        ]
+      },
+      "ford": {
+        "position": "Full Stack Developer",
+        "period": "Nov 2022 - May 2024",
+        "location": "Salvador, BA (Hybrid)",
+        "achievements": [
+          "Developed internal tools for manufacturing process optimization",
+          "Built dashboards with React and Node.js for real-time monitoring",
+          "Collaborated with international teams on global projects"
+        ]
+      },
+      "tridev": {
+        "position": "Freelance Full Stack Developer",
+        "period": "Jan 2018 - Aug 2021",
+        "location": "Remote",
+        "achievements": [
+          "Delivered 20+ web applications for clients across various industries",
+          "Specialized in e-commerce platforms and business automation",
+          "Managed full project lifecycle from requirements to deployment"
+        ]
+      },
+      "giusoft": {
+        "position": "Junior Developer",
+        "period": "Jun 2017 - Dec 2017",
+        "location": "Salvador, BA",
+        "achievements": [
+          "Developed web applications using PHP and MySQL",
+          "Maintained legacy systems and implemented new features",
+          "Collaborated with senior developers on enterprise projects"
+        ]
+      }
+    },
+    "projects": {
+      "title": "Featured Projects",
+      "subtitle": "Some of my open-source work and personal projects",
+      "viewMore": "Want to see more?",
+      "visitGithub": "Visit My GitHub",
+      "code": "Code",
+      "liveDemo": "Live Demo"
+    }
+  },
+  "pt": {
+    "hero": {
+      "greeting": "Olá, eu sou",
+      "subtitle": "Desenvolvedor Full Stack & Especialista em Integração de IA",
+      "bio": "Engenheiro de Software experiente com vasta experiência em desenvolvimento web, arquitetura backend e integrações de IA. Combino minha paixão por tecnologia com minha capacidade comprovada de entregar soluções escaláveis e inovadoras.",
+      "getInTouch": "Entre em Contato",
+      "viewWork": "Quem Sou"
+    },
+    "skills": {
+      "title": "Habilidades Técnicas",
+      "subtitle": "Tecnologias e ferramentas com as quais trabalho",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "apis": "APIs",
+      "databases": "Bancos de Dados",
+      "ai": "IA & ML",
+      "cloud": "Cloud & DevOps"
+    },
+    "experience": {
+      "title": "Experiência Profissional",
+      "subtitle": "Minha jornada profissional e conquistas",
+      "promoted": "Promovido",
+      "agilize1": {
+        "position": "Engenheiro de Software - Pleno Sênior",
+        "period": "Dez 2024 - Presente",
+        "location": "Salvador, BA (Remoto)",
+        "description": "Promovido em 3 meses por desempenho excepcional em desenvolvimento de IA",
+        "achievements": [
+          "Desenvolvedor líder de IA para plataforma CRM, criando agentes inteligentes com RAG e integração de ferramentas",
+          "Arquitetei soluções de embedding de IA usando AWS Bedrock, OpenAI e Azure AI Foundry",
+          "Desenvolvi APIs escaláveis com Node.js, Go e PHP para automação contábil",
+          "Construí pipelines de engenharia de dados para processar dados financeiros em larga escala"
+        ]
+      },
+      "agilize2": {
+        "position": "Engenheiro de Software - Pleno",
+        "period": "Set 2024 - Dez 2024",
+        "location": "Salvador, BA (Remoto)",
+        "description": "Posição inicial antes da promoção",
+        "achievements": [
+          "Desenvolvi funcionalidades backend para plataforma de automação contábil",
+          "Criei chatbots e soluções de automação para relacionamento com clientes",
+          "Integrei sistemas de IA com infraestrutura CRM existente"
+        ]
+      },
+      "eureka": {
+        "position": "Engenheiro de Software",
+        "period": "Mai 2024 - Set 2024",
+        "location": "Salvador, BA (Remoto)",
+        "achievements": [
+          "Desenvolvi sistemas backend com Node.js e PostgreSQL",
+          "Construí APIs RESTful para aplicações web e mobile",
+          "Implementei testes automatizados e pipelines CI/CD"
+        ]
+      },
+      "sirioLibanes": {
+        "position": "Desenvolvedor de Software",
+        "period": "Mai 2024 - Jul 2024",
+        "location": "Salvador, BA (Remoto)",
+        "achievements": [
+          "Desenvolvi sistemas de gestão hospitalar",
+          "Integrei APIs de terceiros para gerenciamento de dados de pacientes",
+          "Implementei melhores práticas de segurança para dados sensíveis"
+        ]
+      },
+      "ford": {
+        "position": "Desenvolvedor Full Stack",
+        "period": "Nov 2022 - Mai 2024",
+        "location": "Salvador, BA (Híbrido)",
+        "achievements": [
+          "Desenvolvi ferramentas internas para otimização de processos de manufatura",
+          "Construí dashboards com React e Node.js para monitoramento em tempo real",
+          "Colaborei com equipes internacionais em projetos globais"
+        ]
+      },
+      "tridev": {
+        "position": "Desenvolvedor Full Stack Freelancer",
+        "period": "Jan 2018 - Ago 2021",
+        "location": "Remoto",
+        "achievements": [
+          "Entreguei mais de 20 aplicações web para clientes de diversos setores",
+          "Especializado em plataformas de e-commerce e automação empresarial",
+          "Gerenciei ciclo completo de projetos desde requisitos até implantação"
+        ]
+      },
+      "giusoft": {
+        "position": "Desenvolvedor Júnior",
+        "period": "Jun 2017 - Dez 2017",
+        "location": "Salvador, BA",
+        "achievements": [
+          "Desenvolvi aplicações web usando PHP e MySQL",
+          "Mantive sistemas legados e implementei novas funcionalidades",
+          "Colaborei com desenvolvedores seniores em projetos empresariais"
+        ]
+      }
+    },
+    "projects": {
+      "title": "Projetos em Destaque",
+      "subtitle": "Alguns dos meus trabalhos open-source e projetos pessoais",
+      "viewMore": "Quer ver mais?",
+      "visitGithub": "Visite Meu GitHub",
+      "code": "Código",
+      "liveDemo": "Demo ao Vivo"
+    }
+  }
+}
+
