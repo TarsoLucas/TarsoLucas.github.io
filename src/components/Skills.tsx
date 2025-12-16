@@ -14,7 +14,7 @@ const Skills = () => {
   const { skills } = portfolioData;
   const { t } = useLanguage();
 
-  const skillIcons: { [key: string]: JSX.Element } = {
+  const skillIcons: { [key: string]: React.ReactElement } = {
     'React': <FaReact />,
     'TypeScript': <SiTypescript />,
     'JavaScript': <SiJavascript />,
@@ -62,7 +62,7 @@ const Skills = () => {
     >
       <h3 className="skill-category-title">{title}</h3>
       <div className="skill-grid">
-        {skillList.map((skill, index) => (
+        {skillList.map((skill) => (
           <motion.div
             key={skill}
             className="skill-card"
