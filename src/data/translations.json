@@ -113,7 +113,7 @@
   "pt": {
     "hero": {
       "greeting": "Olá, eu sou",
-      "subtitle": "Engenheiro de Software",
+      "subtitle": "Engenheiro de Software & Especialista em Integração de IA",
       "bio": "Engenheiro de Software com 5+ anos de experiência construindo sistemas escaláveis e de missão crítica nos setores automotivo, saúde, fintech e logística. Forte atuação em backend e sistemas distribuídos, com experiência prática na construção de arquiteturas de alto impacto desde o zero até produção. Liderou o desenvolvimento de plataformas com IA atendendo 20.000+ usuários, construiu sistemas industriais preditivos utilizados por 70.000+ usuários globalmente e desenvolveu pipelines processando 50 mil+ registros/dia. Atua de forma end-to-end — da definição arquitetural e modelagem de dados até performance, observabilidade e confiabilidade em produção. Foco em engenharia sólida, escalabilidade e construção de software pronto para ambientes internacionais.",
       "getInTouch": "Entre em Contato",
       "viewWork": "Quem Sou"
