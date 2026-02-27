@@ -108,7 +108,7 @@ const Solutions = () => {
             <div className="stat-item">
               <FaRocket />
               <div>
-                <div className="stat-number">7+</div>
+                <div className="stat-number">5+</div>
                 <div className="stat-label">{language === 'en' ? 'Years Experience' : 'Anos de Experiência'}</div>
               </div>
             </div>

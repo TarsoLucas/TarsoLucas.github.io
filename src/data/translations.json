@@ -2,8 +2,8 @@
   "en": {
     "hero": {
       "greeting": "Hi, I'm",
-      "subtitle": "Full Stack Developer & AI Integration Specialist",
-      "bio": "Seasoned Software Engineer with extensive experience in web development, backend architecture, and AI integrations. I combine my passion for technology with my proven ability to deliver scalable and innovative solutions.",
+      "subtitle": "Software Engineer & AI Integration Specialist",
+      "bio": "Software Engineer with 5+ years building scalable, production-grade systems across automotive, healthcare, fintech, and logistics sectors. Strong backend and distributed systems background with hands-on experience designing high-impact architectures from scratch. Led AI-driven platforms serving 20,000+ users, built industrial predictive systems used by 70,000+ global users, and engineered data pipelines processing 50K+ records/day. Operates end-to-end — from architecture design and data modeling to performance optimization, observability, and production reliability. Focused on building robust, scalable, and internationally-ready software systems.",
       "getInTouch": "Get In Touch",
       "viewWork": "Get To Know Me!"
     },
@@ -23,75 +23,81 @@
       "promoted": "Promoted",
       "agilize1": {
         "position": "Software Engineer - Senior Mid-Level",
-        "period": "Dec 2024 - Present",
+        "period": "Sep 2024 - Feb 2026",
         "location": "Salvador, BA (Remote)",
         "description": "Promoted within 3 months for exceptional performance in AI development",
         "achievements": [
-          "Lead AI developer for CRM platform, creating intelligent agents with RAG and tool integration",
-          "Architected AI embedding solutions using AWS Bedrock, OpenAI, and Azure AI Foundry",
-          "Developed scalable APIs with Node.js, Go, and PHP for accounting automation",
-          "Built data engineering pipelines for processing large-scale financial data"
-        ]
-      },
-      "agilize2": {
-        "position": "Software Engineer - Mid-Level",
-        "period": "Sep 2024 - Dec 2024",
-        "location": "Salvador, BA (Remote)",
-        "description": "Initial position before promotion",
-        "achievements": [
-          "Developed backend features for accounting automation platform",
-          "Created chatbots and automation solutions for customer relations",
-          "Integrated AI systems with existing CRM infrastructure"
+          "Led the development of AI agents based on RAG architecture serving 25,000+ users, increasing response quality by 90% compared to context-free LLMs",
+          "Designed and structured a vector database indexing 3,000+ documents for intelligent knowledge retrieval (MongoDB Atlas)",
+          "Directly contributed to architectural decisions and technical standards adopted by the team",
+          "Structured the project using Clean Architecture to improve maintainability, modularity, and test coverage",
+          "Built data processing and ETL pipelines handling 50,000+ records per day — first operational structuring of these datasets",
+          "Developed and implemented REST APIs supporting 25,000+ users and 300 internal staff members",
+          "Integrated accounting systems, CRM platforms, and AI engines",
+          "Designed and implemented a data evaluation platform (React frontend + .NET backend) enabling specialists to review and improve AI outputs, including SSO authentication",
+          "Led legacy code refactoring and performance optimization initiatives",
+          "Implemented automated tests and quality metrics for output validation, increasing overall system reliability",
+          "Designed asynchronous architecture using Amazon SQS, introducing concurrent processing capabilities that previously did not exist",
+          "Implemented observability using Datadog (metrics, logs, alerts) enabling proactive failure detection and improving system reliability"
         ]
       },
       "eureka": {
         "position": "Software Engineer",
-        "period": "May 2024 - Sep 2024",
-        "location": "Salvador, BA (Remote)",
+        "period": "May 2022 - Sep 2024",
+        "location": "Maringá, PR (Remote)",
         "achievements": [
-          "Developed backend systems with Node.js and PostgreSQL",
-          "Built RESTful APIs for web and mobile applications",
-          "Implemented automated testing and CI/CD pipelines"
+          "Developed ERP systems for insurance companies using hexagonal architecture (Node.js + React)",
+          "Implemented automation for policy calculation and issuance, saving 100+ manual hours per month",
+          "Developed a banking CRM system focused on security and sensitive data management (Spring Boot + React)"
         ]
       },
       "sirioLibanes": {
-        "position": "Software Developer",
-        "period": "May 2024 - Jul 2024",
-        "location": "Salvador, BA (Remote)",
+        "position": "Software Engineer",
+        "period": "Jun 2024 - Aug 2024",
+        "location": "São Paulo, SP (Remote)",
         "achievements": [
-          "Developed healthcare management systems",
-          "Integrated third-party APIs for patient data management",
-          "Implemented security best practices for sensitive data"
+          "Developed a hexagonal-architecture backend (Node.js) for a telemedicine platform with video consultations and electronic health record integration",
+          "Integrated AWS S3 and AWS Lambda to enable infrastructure scalability and asynchronous event-driven workflows",
+          "Integrated with a patient database containing 400,000+ records, ensuring secure and consistent synchronization of clinical data",
+          "Built intelligent chatbots responsible for 40% of initial patient triage interactions, reducing waiting time by 20%",
+          "Developed scripts for large-scale communication with the customer base"
         ]
       },
       "ford": {
-        "position": "Full Stack Developer",
-        "period": "Nov 2022 - May 2024",
+        "position": "Software Engineer",
+        "period": "Oct 2022 - May 2024",
         "location": "Salvador, BA (Hybrid)",
         "achievements": [
-          "Developed internal tools for manufacturing process optimization",
-          "Built dashboards with React and Node.js for real-time monitoring",
-          "Collaborated with international teams on global projects"
+          "Technical lead of a multidisciplinary international team developing a failure detection and prediction system based on DFMEA and statistical forecasting models",
+          "Developed a PWA used by approximately 70,000 global users (Flask + React + GCP), integrated with cloud-based databases",
+          "Built an asynchronous scheduled-task system for automatic synchronization of critical data",
+          "Designed a microservices-oriented architecture",
+          "Implemented RPA automations optimizing internal processes, reducing dozens of manual hours per month and decreasing documentation errors by 60%",
+          "Developed predictive failure models reducing industrial costs and identifying up to 60% underreported failure cases",
+          "Optimized frontend and backend performance, reducing response times by up to 65%"
         ]
       },
-      "tridev": {
-        "position": "Freelance Full Stack Developer",
-        "period": "Jan 2018 - Aug 2021",
-        "location": "Remote",
-        "achievements": [
-          "Delivered 20+ web applications for clients across various industries",
-          "Specialized in e-commerce platforms and business automation",
-          "Managed full project lifecycle from requirements to deployment"
-        ]
-      },
+
       "giusoft": {
-        "position": "Junior Developer",
-        "period": "Jun 2017 - Dec 2017",
+        "position": "Jr Software Engineer",
+        "period": "Mar 2022 - Jul 2022",
         "location": "Salvador, BA",
         "achievements": [
-          "Developed web applications using PHP and MySQL",
-          "Maintained legacy systems and implemented new features",
-          "Collaborated with senior developers on enterprise projects"
+          "Refactored a Warehouse Management System (WMS) to fix bugs, improve algorithm logic, and enhance performance (PHP)",
+          "Optimized complex SQL queries by restructuring them into more efficient tasks, ensuring accurate data delivery per system scope",
+          "Automated database processes through scheduled routines",
+          "Reduced operational failures by introducing observability practices",
+          "Developed and delivered critical features aligned with business requirements and regulatory standards"
+        ]
+      },
+      "revolucaoZ": {
+        "position": "Game Developer",
+        "period": "Mar 2018 - Dec 2021",
+        "location": "Remote",
+        "achievements": [
+          "Developed character interaction systems",
+          "Designed quest systems and dynamic gameplay mechanics",
+          "Modeled business rules for the game engine systems"
         ]
       }
     },
@@ -107,8 +113,8 @@
   "pt": {
     "hero": {
       "greeting": "Olá, eu sou",
-      "subtitle": "Desenvolvedor Full Stack & Especialista em Integração de IA",
-      "bio": "Engenheiro de Software experiente com vasta experiência em desenvolvimento web, arquitetura backend e integrações de IA. Combino minha paixão por tecnologia com minha capacidade comprovada de entregar soluções escaláveis e inovadoras.",
+      "subtitle": "Engenheiro de Software",
+      "bio": "Engenheiro de Software com 5+ anos de experiência construindo sistemas escaláveis e de missão crítica nos setores automotivo, saúde, fintech e logística. Forte atuação em backend e sistemas distribuídos, com experiência prática na construção de arquiteturas de alto impacto desde o zero até produção. Liderou o desenvolvimento de plataformas com IA atendendo 20.000+ usuários, construiu sistemas industriais preditivos utilizados por 70.000+ usuários globalmente e desenvolveu pipelines processando 50 mil+ registros/dia. Atua de forma end-to-end — da definição arquitetural e modelagem de dados até performance, observabilidade e confiabilidade em produção. Foco em engenharia sólida, escalabilidade e construção de software pronto para ambientes internacionais.",
       "getInTouch": "Entre em Contato",
       "viewWork": "Quem Sou"
     },
@@ -128,75 +134,81 @@
       "promoted": "Promovido",
       "agilize1": {
         "position": "Engenheiro de Software - Pleno Sênior",
-        "period": "Dez 2024 - Presente",
+        "period": "Set 2024 - Fev 2026",
         "location": "Salvador, BA (Remoto)",
         "description": "Promovido em 3 meses por desempenho excepcional em desenvolvimento de IA",
         "achievements": [
-          "Desenvolvedor líder de IA para plataforma CRM, criando agentes inteligentes com RAG e integração de ferramentas",
-          "Arquitetei soluções de embedding de IA usando AWS Bedrock, OpenAI e Azure AI Foundry",
-          "Desenvolvi APIs escaláveis com Node.js, Go e PHP para automação contábil",
-          "Construí pipelines de engenharia de dados para processar dados financeiros em larga escala"
-        ]
-      },
-      "agilize2": {
-        "position": "Engenheiro de Software - Pleno",
-        "period": "Set 2024 - Dez 2024",
-        "location": "Salvador, BA (Remoto)",
-        "description": "Posição inicial antes da promoção",
-        "achievements": [
-          "Desenvolvi funcionalidades backend para plataforma de automação contábil",
-          "Criei chatbots e soluções de automação para relacionamento com clientes",
-          "Integrei sistemas de IA com infraestrutura CRM existente"
+          "Liderança no desenvolvimento de agentes de IA baseados em arquitetura RAG para 25.000+ usuários, aumentando em 90% a qualidade das respostas em relação a LLMs sem contexto",
+          "Estruturação de banco vetorial indexando 3.000+ documentos para recuperação inteligente de conhecimento (MongoDB Atlas)",
+          "Contribuição direta na definição de decisões arquiteturais e padrões técnicos adotados pelo time",
+          "Estruturação do projeto utilizado Clean Architecture para melhorar mantenibilidade, modularidade e cobertura de testes",
+          "Criação de pipelines de processamento de dados e ETL processando 50.000+ registros por dia - primeira estruturação operacional desses dados",
+          "Desenvolvimento e implementação de APIs REST dando suporte a mais de 25.000 usuários e 300 funcionários",
+          "Integração sistemas contábeis, CRM e motores de IA",
+          "Elaboração de plataforma de dados (frontend criado com React e backend com .NET) para permitir avaliação e melhorias por especialistas. Incluindo sistema de autenticação SSO",
+          "Atuação direta em refatoração de código legado e melhoria de performance",
+          "Implementação de testes automatizados e métricas de qualidade para validação de outputs, aumentando a confiabilidade do sistema",
+          "Implementação de arquitetura assíncrona baseada em Amazon SQS, criando capacidade de processamento concorrente, previamente inexistente",
+          "Implementação de observabilidade com Datadog, estruturando métricas, logs e alertas para detecção proativa de falhas, aumentando a confiabilidade do sistema"
         ]
       },
       "eureka": {
         "position": "Engenheiro de Software",
-        "period": "Mai 2024 - Set 2024",
-        "location": "Salvador, BA (Remoto)",
+        "period": "Mai 2022 - Set 2024",
+        "location": "Maringá, PR (Remoto)",
         "achievements": [
-          "Desenvolvi sistemas backend com Node.js e PostgreSQL",
-          "Construí APIs RESTful para aplicações web e mobile",
-          "Implementei testes automatizados e pipelines CI/CD"
+          "Desenvolvimento de ERP para seguradoras utilizando arquitetura hexagonal (Node.js + React)",
+          "Implementação de automações de cálculo e emissão de apólices. Economia de 100+ horas mensais de trabalho manual",
+          "Desenvolvimento de CRM bancário com foco em segurança e gestão de dados sensíveis (SpringBoot + React)"
         ]
       },
       "sirioLibanes": {
-        "position": "Desenvolvedor de Software",
-        "period": "Mai 2024 - Jul 2024",
-        "location": "Salvador, BA (Remoto)",
+        "position": "Engenheiro de Software",
+        "period": "Jun 2024 - Ago 2024",
+        "location": "São Paulo, SP (Remoto)",
         "achievements": [
-          "Desenvolvi sistemas de gestão hospitalar",
-          "Integrei APIs de terceiros para gerenciamento de dados de pacientes",
-          "Implementei melhores práticas de segurança para dados sensíveis"
+          "Desenvolvimento de backend em arquitetura hexagonal (Node.js) para plataforma de telemedicina com videochamada e integração com prontuário eletrônico",
+          "Integração com AWS S3 e AWS Lambda para infraestrutura e realização de rotinas assincronas com gatilhos",
+          "Integração com base de dados de pacientes (mais de 400mil pacientes), garantindo sincronização segura e consistente de dados clínicos",
+          "Construção de chatbots inteligentes para triagem e suporte ao paciente responsável por 40% dos atendimentos iniciais, reduzindo o tempo de espera em 20%",
+          "Implementação de scripts para comunicação em massa com a base de clientes"
         ]
       },
       "ford": {
-        "position": "Desenvolvedor Full Stack",
-        "period": "Nov 2022 - Mai 2024",
+        "position": "Engenheiro de Software",
+        "period": "Out 2022 - Mai 2024",
         "location": "Salvador, BA (Híbrido)",
         "achievements": [
-          "Desenvolvi ferramentas internas para otimização de processos de manufatura",
-          "Construí dashboards com React e Node.js para monitoramento em tempo real",
-          "Colaborei com equipes internacionais em projetos globais"
+          "Liderança técnica de equipe internacional multidisciplinar desenvolvendo sistema de detecção e predição de falhas com base em DFMEA e modelos estatísticos de previsão",
+          "Desenvolvimento de aplicação PWA disponibilzada para aproximadamente 70.000 usuários globalmente (Flask + React + GCP), integrando com banco de dados em nuvem",
+          "Desenvolvimento de sistema assíncrono baseado em tarefas agendadas para sincronização automática de dados críticos",
+          "Arquitetura orientada a microsserviços",
+          "Implementação de automações RPA para otimização de processos internos, redução de dezenas de horas mensais no workload de equipes e 60% menos falhas em documentação",
+          "Desenvolvimento de modelos de previsão de falhas para redução de custos industriais, sendo capaz de identificar divergências de até 60% de subnotficação de casos de falhas",
+          "Otimização de performance frontend e backend diminuindo tempos de resposta em até 65%"
         ]
       },
-      "tridev": {
-        "position": "Desenvolvedor Full Stack Freelancer",
-        "period": "Jan 2018 - Ago 2021",
-        "location": "Remoto",
-        "achievements": [
-          "Entreguei mais de 20 aplicações web para clientes de diversos setores",
-          "Especializado em plataformas de e-commerce e automação empresarial",
-          "Gerenciei ciclo completo de projetos desde requisitos até implantação"
-        ]
-      },
+
       "giusoft": {
         "position": "Desenvolvedor Júnior",
-        "period": "Jun 2017 - Dez 2017",
+        "period": "Mar 2022 - Jul 2022",
         "location": "Salvador, BA",
         "achievements": [
-          "Desenvolvi aplicações web usando PHP e MySQL",
-          "Mantive sistemas legados e implementei novas funcionalidades",
-          "Colaborei com desenvolvedores seniores em projetos empresariais"
+          "Refatoração de sistema WMS (Warehouse Management System) visando correção de bugs, melhorias de lógicas de algorítmos e melhora de performance (PHP)",
+          "Otimização de queries SQL complexas quebrando em tarefas mais simples e eficientes, direcionando apenas a informação adequada a cada escopo do sistema",
+          "Automação de processos de banco de dados com rotinas",
+          "Atuação na redução de falhas operacionais adicionando observabilidade no sistema",
+          "Desenvolvimento e entrega de funcionalidades críticas alinhadas às demandas de negócio e requisitos regulatórios"
+        ]
+      },
+      "revolucaoZ": {
+        "position": "Desenvolvedor de Jogos",
+        "period": "Mar 2018 - Dez 2021",
+        "location": "Remoto",
+        "achievements": [
+          "Desenvolvimento de interações entre personagens",
+          "Criação de sistema de quests e mecânicas dinâmicas",
+          "Modelagem de regras de negócio para engine de jogo"
         ]
       }
     },

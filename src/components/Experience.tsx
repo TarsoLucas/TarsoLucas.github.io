@@ -9,7 +9,7 @@ const Experience = () => {
   const { t } = useLanguage();
 
   // Map experience data to translations
-  const experienceKeys = ['agilize1', 'agilize2', 'eureka', 'sirioLibanes', 'ford', 'tridev', 'giusoft'];
+  const experienceKeys = ['agilize1', 'eureka', 'sirioLibanes', 'ford', 'giusoft', 'revolucaoZ'];
 
   const containerVariants = {
     hidden: { opacity: 0 },

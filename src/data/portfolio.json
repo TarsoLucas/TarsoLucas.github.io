@@ -2,12 +2,12 @@
   "personal": {
     "name": "Tarso Oliveira",
     "title": "Software Engineer",
-    "subtitle": "Full Stack Developer & AI Integration Specialist",
+    "subtitle": "Software Engineer & AI Integration Specialist",
     "email": "tarsolucas@gmail.com",
     "github": "https://github.com/tarsolucas",
     "linkedin": "https://www.linkedin.com/in/tarsolucas/",
     "website": "https://tarsolucas.github.io",
-    "bio": "Seasoned Software Engineer with extensive experience in web development, backend architecture, and AI integrations. I combine my passion for technology with my proven ability to deliver scalable and innovative solutions."
+    "bio": "Software Engineer with 5+ years building scalable, production-grade systems across automotive, healthcare, fintech, and logistics sectors. Strong backend and distributed systems background with hands-on experience designing high-impact architectures from scratch. Led AI-driven platforms serving 20,000+ users, built industrial predictive systems used by 70,000+ global users, and engineered data pipelines processing 50K+ records/day. Operates end-to-end — from architecture design and data modeling to performance optimization, observability, and production reliability. Focused on building robust, scalable, and internationally-ready software systems."
   },
   "skills": {
     "frontend": ["React", "TypeScript", "JavaScript", "HTML5", "CSS3", "Angular", "TailwindCSS", "MaterialUI"],
@@ -24,91 +24,93 @@
     {
       "company": "Agilize Contabilidade Online",
       "position": "Software Engineer - Senior Mid-Level",
-      "period": "Dec 2024 - Present",
+      "period": "Sep 2024 - Feb 2026",
       "location": "Salvador, BA (Remote)",
       "promoted": true,
       "description": "Promoted within 3 months for exceptional performance in AI development",
       "achievements": [
-        "Lead AI developer for CRM platform, creating intelligent agents with RAG and tool integration",
-        "Architected AI embedding solutions using AWS Bedrock, OpenAI, and Azure AI Foundry",
-        "Developed scalable APIs with Node.js, Go, and PHP for accounting automation",
-        "Built data engineering pipelines for processing large-scale financial data"
+        "Led the development of AI agents based on RAG architecture serving 25,000+ users, increasing response quality by 90% compared to context-free LLMs",
+        "Designed and structured a vector database indexing 3,000+ documents for intelligent knowledge retrieval (MongoDB Atlas)",
+        "Directly contributed to architectural decisions and technical standards adopted by the team",
+        "Structured the project using Clean Architecture to improve maintainability, modularity, and test coverage",
+        "Built data processing and ETL pipelines handling 50,000+ records per day — first operational structuring of these datasets",
+        "Developed and implemented REST APIs supporting 25,000+ users and 300 internal staff members",
+        "Integrated accounting systems, CRM platforms, and AI engines",
+        "Designed and implemented a data evaluation platform (React frontend + .NET backend) enabling specialists to review and improve AI outputs, including SSO authentication",
+        "Led legacy code refactoring and performance optimization initiatives",
+        "Implemented automated tests and quality metrics for output validation, increasing overall system reliability",
+        "Designed asynchronous architecture using Amazon SQS, introducing concurrent processing capabilities that previously did not exist",
+        "Implemented observability using Datadog (metrics, logs, alerts) enabling proactive failure detection and improving system reliability"
       ],
-      "tech": ["Node.js", "Go", "PHP", "React", "PostgreSQL", "MySQL", "AWS Bedrock", "OpenAI", "Azure AI", "GraphQL"]
-    },
-    {
-      "company": "Agilize Contabilidade Online",
-      "position": "Software Engineer - Mid-Level",
-      "period": "Sep 2024 - Dec 2024",
-      "location": "Salvador, BA (Remote)",
-      "description": "Initial position before promotion",
-      "achievements": [
-        "Developed backend features for accounting automation platform",
-        "Created chatbots and automation solutions for customer relations",
-        "Integrated AI systems with existing CRM infrastructure"
-      ],
-      "tech": ["Node.js", "React", "PostgreSQL", "MySQL"]
+      "tech": ["Node.js", "Go", "PHP", ".NET", "React", "PostgreSQL", "MySQL", "MongoDB Atlas", "AWS Bedrock", "OpenAI", "Azure AI", "GraphQL", "Amazon SQS", "Datadog"]
     },
     {
       "company": "Eureka Software",
-      "position": "React/Angular/Java/Node Developer",
-      "period": "May 2024 - Sep 2024",
+      "position": "Software Engineer",
+      "period": "May 2022 - Sep 2024",
       "location": "Maringá, PR (Remote)",
       "achievements": [
-        "Collaborated with banking and insurance clients to deliver robust systems",
-        "Developed full-stack solutions using modern frameworks"
+        "Developed ERP systems for insurance companies using hexagonal architecture (Node.js + React)",
+        "Implemented automation for policy calculation and issuance, saving 100+ manual hours per month",
+        "Developed a banking CRM system focused on security and sensitive data management (Spring Boot + React)"
       ],
-      "tech": ["React", "Angular", "Java", "Node.js"]
+      "tech": ["React", "Angular", "Java", "Spring Boot", "Node.js"]
     },
     {
       "company": "Hospital Sírio-Libanês",
-      "position": "Node Developer",
-      "period": "May 2024 - Jul 2024",
+      "position": "Software Engineer",
+      "period": "Jun 2024 - Aug 2024",
       "location": "São Paulo, SP (Remote)",
       "achievements": [
-        "Developed backend solution for internal CRM app facilitating patient-doctor communication",
-        "Built scalable and efficient backend systems using hexagonal architecture",
-        "Created intelligent chatbots to enhance patient support and streamline operations"
+        "Developed a hexagonal-architecture backend (Node.js) for a telemedicine platform with video consultations and electronic health record integration",
+        "Integrated AWS S3 and AWS Lambda to enable infrastructure scalability and asynchronous event-driven workflows",
+        "Integrated with a patient database containing 400,000+ records, ensuring secure and consistent synchronization of clinical data",
+        "Built intelligent chatbots responsible for 40% of initial patient triage interactions, reducing waiting time by 20%",
+        "Developed scripts for large-scale communication with the customer base"
       ],
-      "tech": ["Node.js", "React", "TypeScript", "AWS S3", "JavaScript"]
+      "tech": ["Node.js", "React", "TypeScript", "AWS S3", "AWS Lambda", "JavaScript"]
     },
     {
       "company": "Ford Motor Company",
-      "position": "Software Developer & Data Science Researcher",
-      "period": "Nov 2022 - May 2024",
+      "position": "Software Engineer",
+      "period": "Oct 2022 - May 2024",
       "location": "Salvador, BA (Hybrid)",
       "achievements": [
-        "Lead Developer in an international-grade application",
-        "Built a multi-purpose PWA that automates hundreds of hours of engineering work",
-        "Optimized performance for PWA systems, saving thousands of hours with RPA automation",
-        "Performed statistical analysis over large amounts of data",
-        "Contributed to backend development, setting CORS and API routing"
+        "Technical lead of a multidisciplinary international team developing a failure detection and prediction system based on DFMEA and statistical forecasting models",
+        "Developed a PWA used by approximately 70,000 global users (Flask + React + GCP), integrated with cloud-based databases",
+        "Built an asynchronous scheduled-task system for automatic synchronization of critical data",
+        "Designed a microservices-oriented architecture",
+        "Implemented RPA automations optimizing internal processes, reducing dozens of manual hours per month and decreasing documentation errors by 60%",
+        "Developed predictive failure models reducing industrial costs and identifying up to 60% underreported failure cases",
+        "Optimized frontend and backend performance, reducing response times by up to 65%"
       ],
-      "tech": ["React", "TypeScript", "Node.js", "Python", "Flask", "MaterialUI", "GCP", "Pandas"]
-    },
-    {
-      "company": "TriDev",
-      "position": "Full Stack Developer",
-      "period": "Nov 2020 - May 2024",
-      "location": "Remote (Freelance)",
-      "achievements": [
-        "Developed full-stack applications for various clients",
-        "Implemented modern web solutions using React, TypeScript, and Node.js",
-        "Worked with PostgreSQL, Firebase, and GraphQL"
-      ],
-      "tech": ["React", "TypeScript", "Node.js", "PostgreSQL", "Firebase", "GraphQL", "TailwindCSS", "MUI"]
+      "tech": ["React", "TypeScript", "Node.js", "Python", "Flask", "MaterialUI", "GCP", "Pandas", "RPA", "Selenium", "Playwright"]
     },
     {
       "company": "GIUSOFT Tecnologia",
-      "position": "Software Developer",
-      "period": "May 2022 - Jul 2022",
+      "position": "Jr Software Engineer",
+      "period": "Mar 2022 - Jul 2022",
       "location": "Salvador, BA",
       "achievements": [
-        "Enhanced performance and reliability of warehouse management system (WMS)",
-        "Refactored legacy code and automated database processes",
-        "Implemented features based on client demand and fixed critical bugs"
+        "Refactored a Warehouse Management System (WMS) to fix bugs, improve algorithm logic, and enhance performance (PHP)",
+        "Optimized complex SQL queries by restructuring them into more efficient tasks, ensuring accurate data delivery per system scope",
+        "Automated database processes through scheduled routines",
+        "Reduced operational failures by introducing observability practices",
+        "Developed and delivered critical features aligned with business requirements and regulatory standards"
       ],
       "tech": ["PHP", "JavaScript", "MySQL", "jQuery"]
+    },
+    {
+      "company": "Revolução Z",
+      "position": "Game Developer",
+      "period": "Mar 2018 - Dec 2021",
+      "location": "Remote",
+      "achievements": [
+        "Developed character interaction systems",
+        "Designed quest systems and dynamic gameplay mechanics",
+        "Modeled business rules for the game engine systems"
+      ],
+      "tech": ["Game Development", "C#", "Unity"]
     }
   ],
   "projects": [
